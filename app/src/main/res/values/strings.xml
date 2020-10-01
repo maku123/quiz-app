@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="question_text">this is my question</string>
+
+    <string name="question1">What is full form of RAM in IT?</string>
+    <string name="answer1_1">\t(1.) \t  Read Access Memory</string>
+    <string name="answer1">\t(2.) \t  Random Access Memory</string>
+    <string name="answer1_3">\t(3.) \t  Read And Memory</string>
+    <string name="answer1_4">\t(4.) \t  None</string>
+
+    <string name="question2">Which city is also called as Pink City in India?</string>
+    <string name="answer2_1">\t(1.) \t  Hyderabad</string>
+    <string name="answer2_2">\t(2.) \t  Lucknow</string>
+    <string name="answer2">\t(3.) \t  Jaipur</string>
+    <string name="answer2_4">\t(4.) \t  Bhopal</string>
+
+    <string name="question3">Which of the following fruits has no seed?</string>
+    <string name="answer3">\t(1.) \t  Banana</string>
+    <string name="answer3_2">\t(2.) \t  Mango</string>
+    <string name="answer3_3">\t(3.) \t  Orange</string>
+    <string name="answer3_4">\t(4.) \t  Apple</string>
+
+    <string name="question4">What is the full form of WWW?</string>
+    <string name="answer4_1">\t(1.) \t  World Wrong Web</string>
+    <string name="answer4_2">\t(2.) \t  Wrong Wide Web</string>
+    <string name="answer4">\t(3.) \t  World wide web</string>
+    <string name="answer4_4">\t(4.) \t  World Wide Wrong</string>
+
+    <string name="question5">What is full form of WiFi?</string>
+    <string name="answer5_1">\t(1.) \t  Wire Fidelity</string>
+    <string name="answer5_2">\t(2.) \t  Wire Filter</string>
+    <string name="answer5_3">\t(3.) \t  Wireless Filter</string>
+    <string name="answer5">\t(4.) \t  Wireless Fidelity</string>
+    <string name="next_quest">next</string>
+    <string name="previous_quest">previous</string>
+    <string name="title">My Quiz</string>
+</resources>
